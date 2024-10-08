@@ -1,1 +1,1 @@
-from .orderbook import DeribitOrderBook
+from deribit_orderbook.orderbook import DeribitOrderBook

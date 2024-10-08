@@ -1,1 +1,1 @@
-from .websocket import DeribitSocketManager
+from deribit_socket.websocket import DeribitSocketManager
